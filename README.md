@@ -1,6 +1,6 @@
 # MERN-BoilerPlate
 
-## Starting point for creating a MERN application
+## Starting point for creating a MERN w/ SQL Database application
 
 Includes:
 - React
