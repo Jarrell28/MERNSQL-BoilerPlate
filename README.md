@@ -1,4 +1,4 @@
-# MERN-BoilerPlate
+# MERNSQL-BoilerPlate
 
 ## Starting point for creating a MERN w/ SQL Database application
 
